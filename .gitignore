@@ -15,4 +15,4 @@
 .DS_Store
 .prettierignore
 
-./blog-preview-card-figma
+\blog-preview-card-figma
